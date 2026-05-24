@@ -47,7 +47,9 @@ Log out and log back in — your data is right there.
 
  Splash 
  <img width="1080" height="2436" alt="1000127577" src="https://github.com/user-attachments/assets/d9f46677-131f-4386-86f1-acb8f10da257" />
-Login<img width="1080" height="2436" alt="1000127578" src="https://github.com/user-attachments/assets/624470b5-a948-4f8d-a551-245cb2974c65" />
+ 
+ Login
+<img width="1080" height="2436" alt="1000127578" src="https://github.com/user-attachments/assets/624470b5-a948-4f8d-a551-245cb2974c65" />
  
  Dashboard 
  <img width="1080" height="2436" alt="1000127582" src="https://github.com/user-attachments/assets/5d9746a7-6df2-4cd0-bbcb-f04cfdb1be5a" />
