@@ -47,17 +47,22 @@ Log out and log back in — your data is right there.
 
 | Splash | Login | Dashboard |
 |--------|-------|-----------|
-| ![Splash](screenshots/splash_screen.png) | ![Login](screenshots/login_screen.png) | ![Dashboard](screenshots/dashboard_screen.png) |
+| <img width="1080" height="2436" alt="1000127577" src="https://github.com/user-attachments/assets/d9f46677-131f-4386-86f1-acb8f10da257" />
+ | <img width="1080" height="2436" alt="1000127578" src="https://github.com/user-attachments/assets/624470b5-a948-4f8d-a551-245cb2974c65" />
+ | <img width="1080" height="2436" alt="1000127582" src="https://github.com/user-attachments/assets/5d9746a7-6df2-4cd0-bbcb-f04cfdb1be5a" />
+ |
 
 | Add Transaction | Analytics |
 |-----------------|-----------|
-| ![Add](screenshots/add_transaction.png) | ![Analytics](screenshots/analytics_screen.png) |
+| <img width="1080" height="2436" alt="1000127580" src="https://github.com/user-attachments/assets/b6719c5d-a685-45e8-aa81-d7cd9413e5fe" />
+ | <img width="1080" height="2436" alt="1000127583" src="https://github.com/user-attachments/assets/684dedc7-110c-483f-850a-272e33c7eddb" />
+ |
 
 ---
 
 ## Demo
 
-[Add Demo Video Link Here]
+https://github.com/user-attachments/assets/ed6e1da4-93cf-4df8-87ac-68e80fbea716
 
 ---
 
