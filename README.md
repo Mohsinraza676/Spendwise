@@ -46,18 +46,19 @@ Log out and log back in — your data is right there.
 ## Screenshots
 
  Splash 
-| <img width="1080" height="2436" alt="1000127577" src="https://github.com/user-attachments/assets/d9f46677-131f-4386-86f1-acb8f10da257" />
+ <img width="1080" height="2436" alt="1000127577" src="https://github.com/user-attachments/assets/d9f46677-131f-4386-86f1-acb8f10da257" />
+ 
  Login 
-| <img width="1080" height="2436" alt="1000127578" src="https://github.com/user-attachments/assets/624470b5-a948-4f8d-a551-245cb2974c65" />
+ <img width="1080" height="2436" alt="1000127578" src="https://github.com/user-attachments/assets/624470b5-a948-4f8d-a551-245cb2974c65" />
+ 
  Dashboard 
-| <img width="1080" height="2436" alt="1000127582" src="https://github.com/user-attachments/assets/5d9746a7-6df2-4cd0-bbcb-f04cfdb1be5a" />
-
+ <img width="1080" height="2436" alt="1000127582" src="https://github.com/user-attachments/assets/5d9746a7-6df2-4cd0-bbcb-f04cfdb1be5a" />
 
  Add Transaction 
-
-| <img width="1080" height="2436" alt="1000127580" src="https://github.com/user-attachments/assets/b6719c5d-a685-45e8-aa81-d7cd9413e5fe" />
+ <img width="1080" height="2436" alt="1000127580" src="https://github.com/user-attachments/assets/b6719c5d-a685-45e8-aa81-d7cd9413e5fe" />
+ 
  Analytics 
- | <img width="1080" height="2436" alt="1000127583" src="https://github.com/user-attachments/assets/684dedc7-110c-483f-850a-272e33c7eddb" />
+ <img width="1080" height="2436" alt="1000127583" src="https://github.com/user-attachments/assets/684dedc7-110c-483f-850a-272e33c7eddb" />
  
 
 ---
